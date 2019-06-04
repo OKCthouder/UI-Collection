@@ -1,0 +1,268 @@
+/* 可以把以下写入到通用css中，随时引用 */
+.pic1{
+    /*position:relative;*/
+    overflow:hidden;
+    padding-top:30%;
+}
+.pic1 .img1{
+    position:absolute;
+    /*top:50%;*/
+    transform:translateY(-50%);
+    width:100%;
+}
+
+.pic2{
+    /*position:relative;*/
+    overflow:hidden;
+    padding-top:70%;
+}
+
+.pic2 .img2{
+    position:absolute;
+    /*top:50%;*/
+    transform:translateY(-50%);
+    width:100%;
+}
+
+ .pic3{
+    /* position:relative; */
+    overflow:hidden;
+    padding-top:70%;
+}
+
+.pic3 .img3{
+    position:absolute;
+    transform:translateY(-50%);
+    width:100%;
+}
+
+ .pic4{
+    overflow:hidden;
+    padding-top:70%;
+}
+
+.pic4 .img4{
+    position:absolute;
+    transform:translateY(-50%);
+    width:100%;
+}
+
+ .pic5{
+    overflow:hidden;
+    padding-top:70%;
+}
+
+.pic5 .img5{
+    position:absolute;
+    transform:translateY(-50%);
+    width:100%;
+}
+
+ .pic6{
+    overflow:hidden;
+    padding-top:70%;
+}
+
+.pic6 .img6{
+    position:absolute;
+    transform:translateY(-50%);
+    width:100%;
+}
+
+ .pic7{
+    overflow:hidden;
+    padding-top:70%;
+}
+
+.pic7 .img7{
+    position:absolute;
+    transform:translateY(-50%);
+    width:100%;
+}
+
+ .pic8{
+    overflow:hidden;
+    padding-top:70%;
+}
+
+.pic8 .img8{
+    position:absolute;
+    transform:translateY(-50%);
+    width:100%;
+}
+
+ .pic9{
+    overflow:hidden;
+    padding-top:70%;
+}
+
+.pic9 .img9{
+    position:absolute;
+    transform:translateY(-50%);
+    width:100%;
+}
+
+ .pic10{
+    overflow:hidden;
+    padding-top:70%;
+}
+
+.pic10 .img10{
+    position:absolute;
+    transform:translateY(-50%);
+    width:100%;
+}
+
+ .pic11{
+    overflow:hidden;
+    padding-top:70%;
+}
+
+.pic11 .img11{
+    position:absolute;
+    transform:translateY(-50%);
+    width:100%;
+}
+
+ .pic12{
+    overflow:hidden;
+    padding-top:70%;
+}
+
+.pic12 .img12{
+    position:absolute;
+    transform:translateY(-50%);
+    width:100%;
+}
+
+ .pic13{
+    overflow:hidden;
+    padding-top:70%;
+}
+
+.pic13 .img13{
+    position:absolute;
+    transform:translateY(-50%);
+    width:100%;
+}
+
+ .pic14{
+    overflow:hidden;
+    padding-top:70%;
+}
+
+.pic14 .img14{
+    position:absolute;
+    transform:translateY(-50%);
+    width:100%;
+}
+
+ .pic15{
+    overflow:hidden;
+    padding-top:70%;
+}
+
+.pic15 .img15{
+    position:absolute;
+    transform:translateY(-50%);
+    width:100%;
+}
+
+ .pic16{
+    overflow:hidden;
+    padding-top:70%;
+}
+
+.pic16 .img16{
+    position:absolute;
+    transform:translateY(-50%);
+    width:100%;
+}
+
+ .pic17{
+    overflow:hidden;
+    padding-top:70%;
+}
+
+.pic17 .img17{
+    position:absolute;
+    transform:translateY(-50%);
+    width:100%;
+}
+
+ .pic18{
+    overflow:hidden;
+    padding-top:70%;
+}
+
+.pic18 .img18{
+    position:absolute;
+    transform:translateY(-50%);
+    width:100%;
+}
+
+ .pic19{
+    overflow:hidden;
+    padding-top:70%;
+}
+
+.pic19 .img19{
+    position:absolute;
+    transform:translateY(-50%);
+    width:100%;
+}
+
+ .pic20{
+    overflow:hidden;
+    padding-top:70%;
+}
+
+.pic20 .img20{
+    position:absolute;
+    transform:translateY(-50%);
+    width:100%;
+}
+
+ .pic21{
+    overflow:hidden;
+    padding-top:70%;
+}
+
+.pic21 .img21{
+    position:absolute;
+    transform:translateY(-50%);
+    width:100%;
+}
+
+ .pic22{
+    overflow:hidden;
+    padding-top:70%;
+}
+
+.pic22 .img22{
+    position:absolute;
+    transform:translateY(-50%);
+    width:100%;
+}
+
+ .pic23{
+    overflow:hidden;
+    padding-top:70%;
+}
+
+.pic23 .img23{
+    position:absolute;
+    transform:translateY(-50%);
+    width:100%;
+}
+
+ .pic24{
+    overflow:hidden;
+    padding-top:70%;
+}
+
+.pic24 .img24{
+    position:absolute;
+    transform:translateY(-50%);
+    width:100%;
+}
